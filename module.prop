@@ -1,0 +1,6 @@
+id=iorapd_enable
+name=iorapd enabler
+version=1.1
+versionCode=110
+author=soredake
+description=adds prop to enable iorapd
